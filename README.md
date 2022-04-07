@@ -16,10 +16,10 @@ MyBomber is a Web App for football lovers: it is possible to create a match or t
 For the installation of the Web App, please see [2021_MI_C11_MyBomber_Mauro](https://github.com/tanucc9/MyBomber/blob/master/docProduct/manuali/2021_MI_C11_MyBomber_Mauro.pdf) file.
 
 # Documentation
-## Javadocs
+### Javadocs
 You can find Javadocs in the /docs folder.
 
-## Documentation Project
+### Documentation Project
 You can find the management's documentation in /docManagement folder and the product's documentation in /docProduct folder.
 
 
